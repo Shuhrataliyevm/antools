@@ -1,0 +1,41 @@
+.develop{
+    margin-left: 100px;
+    position: relative;
+    top: 100px;
+}
+
+.develop h1{
+    width: 401px;
+    height: 62px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 62.4px;
+    color: #FFFFFFE5;
+}
+
+.develop p{
+    width: 427px;
+    height: 90px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF8C;
+}
+
+.develop button{
+    width: 198px;
+    height: 58px;
+    border-radius: 8px;
+    background-color: #FF6E30;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-top: 60px;
+    cursor: pointer;
+}
+
+.develop button:active{
+    background-color: #f88554;
+}
+

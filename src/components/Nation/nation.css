@@ -1,0 +1,61 @@
+.nike{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+
+.nations{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.nation-image{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.nation-image h4{
+    width: 129px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color: #FFFFFFC7;
+}
+
+.nation-image h4 span{
+    width: 101px;
+    height: 27px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFA5378C;
+}
+
+p{
+    width: 326px;
+    height: 60px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF8C;
+    margin-top: 20px;
+}
+
+.image{
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+button{
+    width: 106px;
+    height: 42px;
+    border-radius: 8px;
+    background-color: #283036;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF8C;
+    border: none;
+}

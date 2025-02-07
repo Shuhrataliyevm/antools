@@ -1,0 +1,43 @@
+.become{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 100px;
+}
+
+.become h1{
+    width: 553px;
+    height: 62px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 62.4px;
+    color: #FFFFFFE5;
+}
+
+.become p{
+    width: 427px;
+    height: 60px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #FFFFFF8C;
+}
+
+.become input{
+    width: 549px;
+    height: 64px;
+    border-radius: 15px;
+    border: 1.5px solid #FFFFFF1A;
+    background-color: #283036;
+    padding: 0px 20px;
+    font-size: 18px;
+    color: #ffffff65;
+    margin-top: 100px;
+}
+
+.become button{
+    margin-top: -60px;
+    margin-left: 400px;
+}

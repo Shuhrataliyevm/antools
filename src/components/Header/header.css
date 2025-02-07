@@ -1,0 +1,53 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 120px;
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+header nav a{
+    color: black;
+    font-size: 18px;
+}
+
+header nav a{
+    color: #FFFFFF8C;
+}
+
+
+.sign-up{
+    width: 118px;
+    height: 48px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FF6E30;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FDF5FF;
+    cursor: pointer;
+}
+
+.sign-up:active{
+    background-color: #fd9b71;
+}
+
+.login{
+    width: 118px;
+    height: 48px;
+    border: none;
+    border-radius: 8px;
+    background-color: #283036;
+    opacity: 78%;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFFC7;
+    cursor: pointer;
+}

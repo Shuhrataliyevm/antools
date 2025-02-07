@@ -1,0 +1,16 @@
+.nation-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-template-rows: auto auto; 
+    justify-items: center;
+}
+
+.upg-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: auto auto; 
+    justify-items: center;
+    margin-left: 450px;
+    margin-top: -20%;
+}  
+

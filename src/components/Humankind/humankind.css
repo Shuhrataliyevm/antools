@@ -1,0 +1,49 @@
+.mankind{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 200px;
+}
+
+.mankind p{
+    width: 393px;
+    height: 180px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFFC7;
+}
+
+.picture{
+    position: relative;
+    z-index: -1;
+    margin-left: 750px;
+    margin-top: -370px;
+}
+
+.ronal{
+    margin-left: 180px;
+}
+
+.ronal p{
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.ronald{
+    margin-top: -98px;
+    margin-left: 1180px;
+}
+
+.ronald p{
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.carusels{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}

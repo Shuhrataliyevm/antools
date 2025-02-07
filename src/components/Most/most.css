@@ -1,0 +1,27 @@
+.populars{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.most-popular h1{
+    width: 455px;
+    height: 62px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 62.4px;
+    color: #FFFFFFE5;
+    margin-left: 30px;
+}
+
+.most-popular p{
+    width: 427px;
+    height: 60px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF8C;
+}
