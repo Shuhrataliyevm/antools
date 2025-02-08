@@ -9,6 +9,12 @@
     margin-left: 100px;
 }
 
+.nations:hover{
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.8);
+    border-color: rgba(255, 255, 255, 0.8);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
 .nation-image{
     display: flex;
     align-items: center;
